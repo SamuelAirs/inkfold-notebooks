@@ -8,7 +8,7 @@ Inkfold keeps your notebooks on a wooden bookshelf: covers you decorate, paper y
 
 ## Getting started
 
-- **A new notebook:** tap **+** on the shelf. It drops onto a shelf and opens its *New Notebook* sheet: name it, then choose its cover, lettering, paper and typing font.
+- **A new notebook:** tap **+** on the shelf > *New Notebook*. It drops onto a shelf and opens its *New Notebook* sheet: name it, then choose its cover, lettering, paper and typing font.
 - **Opening one:** tap a book. To go back to the shelf, tap the back button at the top left.
 - **Moving or decorating one:** touch and hold a book, then drag it to any shelf. Hold and let go without moving for its menu: **Open**, **Decorate**, **Share as PDF**, **Delete**.
 - **The shelf's ••• menu:** *Unlimited Notebooks* and *Restore Purchase*, the wood (oak, walnut, ash), *Tilt to Move Books*, *Tidy Up* to stand them up straight, and *Help* (this page and the privacy policy).
@@ -43,11 +43,21 @@ The search field under *Library* finds words in every notebook: titles, typed te
 
 Handwriting is read on your device a moment after you stop writing. Neat writing is read best, and some languages and very small or joined-up writing may not be read at all; search finds only what was read.
 
+## Reading books
+
+Inkfold reads books you have as files: **EPUB** (without copy protection), **PDF** and plain **text**.
+
+- **Adding one:** tap **+** > *Add a Book…* and choose it in Files (several at once is fine), or share the file from another app and choose Inkfold. Inkfold keeps its own copy; the original stays where it was.
+- **Reading:** tap the book. Swipe or tap near the page's edge to turn it; on a keyboard, the arrow keys and the space bar. Two pages show side by side on the iPad, on a phone turned sideways, and on the iPhone Duo opened like a book.
+- **The ••• menu:** *Contents* (when the book has a table of contents), *Text* (font, size and paper, for EPUB and text; a PDF keeps its own pages) and *Pages* (one or two).
+- Inkfold remembers your place in each book. Books are free: the 3-notebook limit doesn't count them.
+- Not yet: books with copy protection (DRM) from Apple Books or Kindle, pictures inside EPUBs, highlights and notes in books, and searching inside a book.
+
 ## Unlimited Notebooks
 
 Inkfold is free with up to 3 notebooks of your own on the shelf (the sample notebooks it starts with don't count), with every cover, paper and pen. **Unlimited Notebooks** is one purchase of $4.99 (in US dollars; the App Store shows your own currency), with no subscription: once bought, you can add as many notebooks as you like.
 
-- **Buying it:** tap **+** when you have 3 notebooks of your own, or choose *Unlimited Notebooks…* in the shelf's **•••** menu, then *Unlock*. Apple's purchase sheet takes the payment.
+- **Buying it:** tap **+** > *New Notebook* when you have 3 notebooks of your own, or choose *Unlimited Notebooks…* in the shelf's **•••** menu, then *Unlock*. Apple's purchase sheet takes the payment.
 - **On another iPhone or iPad,** or after reinstalling: the shelf's **•••** menu > *Restore Purchase*, signed in with the same Apple Account.
 - **Ask to Buy:** if a parent approves later, Inkfold unlocks by itself.
 - Your notebooks are never locked away: without the purchase you can still open, write in, share and delete every notebook you have. Only making a fourth of your own waits for it.
