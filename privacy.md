@@ -11,7 +11,7 @@ Effective October 31, 2026
 
 ## What stays on your device
 
-- **Your notebooks:** their covers, pages, ink, typed text, text boxes and sticky notes, kept in the app's own storage on your iPhone or iPad.
+- **Your notebooks:** their covers, pages, ink and typed text, kept in the app's own storage on your iPhone or iPad.
 - **Your books:** the copies of the EPUB, PDF and text files you add, and your place in each, kept the same way. Inkfold opens them itself and never sends them anywhere.
 - **Your settings:** finger drawing, the shelf's tilt and wood, the pens you last chose, and whether Unlimited Notebooks was bought on this device's Apple Account.
 - **Handwriting, read for search:** Inkfold reads your handwriting as text with Apple's text recognition, which runs on the device. The text is kept with the page it came from, so search can find it, and goes nowhere else.

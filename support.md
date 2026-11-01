@@ -15,11 +15,10 @@ Inkfold keeps your notebooks on a wooden bookshelf: covers you decorate, paper y
 
 ## Writing in a notebook
 
-The three buttons at the top of an open notebook choose what your finger does:
+There are no modes to switch:
 
-- **Pen:** draw and write with every Apple pen and pencil, the erasers, the lasso and the ruler, in the palette along the bottom. An Apple Pencil always draws, in any mode.
-- **Type:** type on the ruled lines. Your text runs on from page to page, and a new page is added when you reach the end.
-- **Text boxes:** tap anywhere on a page for a box of text. Drag it to move it, widen it from its right edge, or make it a yellow sticky note.
+- **Drawing:** an Apple Pencil always draws, and so does your finger while *Draw with Finger* is on (it is at first on an iPhone). Every Apple pen and pencil, the erasers, the lasso and the ruler are in the palette along the bottom.
+- **Typing:** just start typing on a keyboard, or tap the keyboard button at the top for the keyboard on the screen. The words go on the ruled lines of the page you're on and run on from page to page; a new page is added when you reach the end. With *Draw with Finger* off, tap a line to type there. Tap the keyboard button again, or press Escape, to put the typing away. Your drawing stays on top of the typing.
 
 More, in the notebook's **•••** menu:
 
@@ -29,17 +28,17 @@ More, in the notebook's **•••** menu:
 - **This Page's Paper:** a different design for one page.
 - **Share as PDF:** this page (or the two you see) or the whole notebook, to Mail, Messages, AirDrop, Files or a printer. Typed text stays real text in the PDF.
 
-To turn pages, use the arrows at the bottom, swipe with two fingers, or (in Type mode, or with *Draw with Finger* off) swipe or tap near the page's edge.
+To turn pages, use the arrows at the bottom, swipe with two fingers, or (with *Draw with Finger* off) swipe or tap near the page's edge. With a keyboard, the right and left arrow keys turn pages while you aren't typing, and Page Down and Page Up always do.
 
 ## On the iPhone Duo
 
 - **Opened like a book:** two pages side by side, with the spine on the hinge, and a board down the middle of the bookcase so no book stands on the fold.
-- **Half folded like a laptop:** one page above the fold and one below, turning upward like a reporter's pad, so the lower page lies flat under your pen.
+- **Half folded like a laptop:** the page stands on the upper half, and the keyboard and the tools lie on the lower. The page scrolls to keep your typing in sight; scroll it yourself with two fingers.
 - The iPhone Duo doesn't support Apple Pencil yet, so your finger draws there.
 
 ## Search
 
-The search field under *Library* finds words in every notebook: titles, typed text, text boxes and handwriting. Tap a result to open the notebook at that page.
+The search field under *Library* finds words in every notebook: titles, typed text and handwriting. Tap a result to open the notebook at that page.
 
 Handwriting is read on your device a moment after you stop writing. Neat writing is read best, and some languages and very small or joined-up writing may not be read at all; search finds only what was read.
 
