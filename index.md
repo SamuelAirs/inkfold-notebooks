@@ -11,7 +11,7 @@ title: Inkfold Notebooks
 - **Real paper.** Wide or college ruled, dot grid, squared, Cornell, engineering, music or blank, in smooth, cotton, recycled, laid, linen or watercolor textures and seven paper colors.
 - **Write, draw and type.** Draw with every Apple pen and pencil, and type straight onto the ruled lines, from page to page. No modes to switch.
 - **Two pages at once.** Unfold the iPhone Duo and the notebook opens like a book, with the spine on the hinge. Half fold it like a laptop and the page stands up, with the keyboard and the tools below.
-- **Books too.** Put your own EPUB, PDF and text books on the shelf, from the Files app or another app's share sheet, and read them with the same page turns, in the font, size and paper you like.
+- **Books too.** Put your own EPUB, PDF and text books, and comics as CBZ, on the shelf, from the Files app or another app's share sheet, and read them with the same page turns, in the font, size and paper you like.
 - **Find and share.** Search finds words you typed or wrote by hand in every notebook, and books by title and author. Share a page or a whole notebook as a PDF.
 - **Private.** No account, no ads and nothing collected. Your notebooks stay on your device.
 
